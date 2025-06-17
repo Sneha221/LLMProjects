@@ -1,6 +1,6 @@
 # LLMProjects
 
-# AI Safety Evaluator – A PartyRock App
+# AI Safety Evaluator – AWS PartyRock App
 
 **AI Safety Evaluator** is a lightweight LLM-based safety auditing tool developed on the PartyRock platform. It is designed to assess the potential for misuse of user-submitted prompts intended for large language models. This tool enables developers, researchers, and safety engineers to identify risk exposure in real time.
 
